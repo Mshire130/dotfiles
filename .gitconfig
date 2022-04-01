@@ -1,0 +1,7 @@
+[user]
+	email = shire@arrival.com
+	name = Mohamed Shire
+[blame]
+	ignoreRevsFile = .git-blame-ignore-revs
+[push]
+	default = current
